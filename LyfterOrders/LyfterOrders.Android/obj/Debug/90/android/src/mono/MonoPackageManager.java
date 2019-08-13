@@ -109,6 +109,7 @@ class MonoPackageManager_Resources {
 		"LyfterOrders.Android.dll",
 		"FormsViewGroup.dll",
 		"LyfterOrders.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",
